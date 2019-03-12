@@ -1,0 +1,10 @@
+
+package modeloqytetet;
+
+/**
+ *
+ * @author miguel
+ */
+public enum TipoSorpresa {
+    PAGARCOBRAR, IRACASILLA, PORCASAHOTEL, PORJUGADOR, SALIRCARCEL, CONVERTIRME
+}

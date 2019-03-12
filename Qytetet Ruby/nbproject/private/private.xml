@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="4">
+        <file>
+            <url>lib/tablero.rb</url>
+            <bookmark id="2">
+                <name/>
+                <line>16</line>
+                <key/>
+            </bookmark>
+            <bookmark id="4">
+                <name/>
+                <line>29</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/tablero.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/especulador.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/qytetet.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/estado_juego.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/vista_textual_qytetet.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/sorpresa.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/opcion_menu.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/jugador.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/dado.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/controlador_qytetet.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/metodo_salir_carcel.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/calle.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/prueba_qytetet.rb</file>
+            <file>file:/home/migue/NetBeansProjects/QytetetRuby/lib/casilla.rb</file>
+        </group>
+    </open-files>
+</project-private>
